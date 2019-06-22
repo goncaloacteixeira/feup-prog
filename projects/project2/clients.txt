@@ -1,0 +1,76 @@
+Rui Manuel
+234987156
+4
+Rua Sem Fim / 200 / 5esq / 1200-001 / Lisboa
+10 ; 36 ; 2 ; 1
+53456
+::::::::::
+Belmiro Miguel
+458987874
+2
+Avenida dos Grilos / 100 / - / 2300-101 / Coimbra
+100 ; 136 ; 20
+241
+::::::::::
+Goncalo A C Teixeira
+246868245
+5
+Rua M Pimenel / 416 / 1esq / 4640-467 / Bai∆o
+1 ; 2 ; 3
+4633
+::::::::::
+Joao Pedro
+230710242
+4
+Rua 1 / 213 / - / 4834-432 / Porto
+1 ; 2 ; 5 ; 3
+234
+::::::::::
+Tiago Pinto
+430209470
+5
+Rua 1 / 23 / 1esq / 4293-324 / Maia
+1 ; 2 ; 3
+6346
+::::::::::
+Joao Jose
+232452345
+5
+Rua 2 / 23 / 1dir / 4059-534 / Porto
+23 ; 534
+74567
+::::::::::
+Ricardo
+203219481
+6
+Rua Julio / 23 / primeiro / 4049-424 / Lisboa
+1 ; 1 ; 1
+1200
+::::::::::
+Andre
+423523455
+5
+Rua Manuel / 23 / 1 / 2324-244 / Santarem
+1 ; 2
+4235
+::::::::::
+Andrea
+123132123
+5
+Rua lili / 23 / - / 2324-42 / Braga
+0
+0
+::::::::::
+Roberto
+232412415
+24
+Rua lilas / 243 / - / 3456-535 / Lisbon
+0
+0
+::::::::::
+Francisco Andrade
+231241451
+4
+Rua da Igreja / 45 / 2 / 2452-24 / Vila Real
+0
+0
