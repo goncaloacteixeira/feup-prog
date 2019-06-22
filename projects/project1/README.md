@@ -1,6 +1,6 @@
-	PROJECT 1 - PROG
+# PROJECT 1 - PROG
 	
-	Funcionalidades a Implementar
+**Funcionalidades a Implementar**
 	
 	A parte da aplicação que deve implementar neste trabalho inclui as seguintes funcionalidades:
 		
@@ -17,9 +17,9 @@
 		7. Efetuar a compra de um pacote turístico por um cliente.
 		8. Calcular e visualizar o número e o valor total de pacotes vendidos.
 	
-	------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
 
-	REPORT
+**REPORT**
 
 		1. Objetivo cumprido - A informação é lida e guardada em memória: os dados da agência são guardados num struct "Agency"; os dados de cada cliente
 	ocupam uma posição num vetor de structs "Client"; os dados dos pacotes são ocupam uma posição num vetor de structs "TravelPack".
@@ -37,9 +37,10 @@
 
 
 			--- Todos os objetivos cumpridos ---
+------------------------------------------
 
 
-	ERROR LIST
+**ERROR LIST**
 	
 	Error 1: Agency file couldn't be found.
 	Error 2: Clients file couldn't be found.
