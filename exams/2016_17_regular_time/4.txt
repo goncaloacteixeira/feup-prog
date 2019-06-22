@@ -1,0 +1,57 @@
+(A)
+
+Caso1
+float readNumber(string msg)                                    
+{
+...
+cout << msg; cin >> number;
+...
+}
+chamada: grade = readNumber("Grade ? ")
+
+Caso2
+float readNumber(char *msg)                                    
+{
+...
+cout << msg; cin >> number;
+...
+}
+chamada: grade = readNumber((char *) "Grade ? ")
+
+(B)
+
+Sim, pois a classe Date possui valores definidos por omissão para os seus parâmetros quando não são indicados
+nenhuns (como é o caso, sendo assim, o ano, mês e dia de date1 serão 1).
+
+(C)
+
+class Image {
+	public:
+		//...
+	private:
+		int **img; // image representation
+		// ... other attributes
+};
+Seria necessário acrescentar um método para alocar o espaço necessário de maneira a que img possua o número de
+linhas e colunas adequado:
+
+img = new int *[nLins];
+
+for (int i = 0; i < nLins; i++)
+	img[i] = new int[nCols];
+(D)
+
+Image::Image(size_t nLins = 0, size_t nCols = 0, int pixVal = 0) {
+	this->nLins = nLins;
+	this->nCols = nCols;
+
+	img(nLins, nCols);
+
+	for (int y = 0; y < nLins; y++)
+		for (int x = 0; x < nCols; x++)
+			img[y][x] = pixVal;
+}
+(E) Uma list consiste num bidirectional container e o sort apenas aceita random access iterators.
+
+(F) O significado dessa definição do método draw é que este é uma pure virtual function, ou seja, não possui definição,
+tendo esta de ser definida pelas classes derivadas de Shape, tornando assim esta classe abstrata, ou seja, não pode ser declarada.
