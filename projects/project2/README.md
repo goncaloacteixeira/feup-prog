@@ -5,10 +5,8 @@
 	
 		Gonçalo André Carneiro Teixeira 	up201806562
 		Tiago André Macedo Pinto		up201808907
-
-
-	------	PROJETO 2 - Agência de Viagens “NiceHolidays” ------
-
+---------------------------------
+**Descrição do Projeto**
 
 	Classes:
 		- Address 	(moradas)
@@ -50,10 +48,10 @@
 		local).
 			10. Gerar uma listagem de todos os clientes na qual se indica, para cada cliente, um dos pacotes em
 		que seja visitado um dos N locais mais visitados (ver ponto 9) que ele ainda não visitou.
-	
-		------------------------------------------------------------------------------------------------------------------
 
-		REPORT
+------------------------------------------------------------------------------------------------------------------
+
+**REPORT**
 
 			1. Objetivo cumprido - A informação é lida e guardada em memória. No fim, caso existam alterações pendentes a serem guardadas em ficheiros,
 		o utilizador é questionado para guardar ou não as alterações feitas;
